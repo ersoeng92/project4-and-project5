@@ -6,11 +6,9 @@ This repository contains zipped archives for Project 4 and Project 5.
 
 ## Contents 
 
--[SoengMod4Proj4.zip][./SoengMod4Proj4.zip]-
-Includes source code and Javadoc for Project 4
+-[SoengMod4Proj4.zip](./SoengMod4Proj4.zip) - Includes source code and Javadoc for Project 4
 
--[SoengMod5Proj5.zip][./SoengMod5Proj5.zip]-
-Includes source code and Javadoc for Project 5 
+-[SoengMod5Proj5.zip](./SoengMod5Proj5.zip) - Includes source code and Javadoc for Project 5 
 
 ## How to Run
 
